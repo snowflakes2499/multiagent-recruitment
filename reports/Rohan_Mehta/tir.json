@@ -1,0 +1,18 @@
+{
+  "name": "Rohan Mehta",
+  "skills": {
+    "python": {
+      "confidence": 0.8,
+      "category": "programming"
+    },
+    "sql": {
+      "confidence": 0.8,
+      "category": "programming"
+    },
+    "docker": {
+      "confidence": 0.8,
+      "category": "infra"
+    }
+  },
+  "career_summary": "[LLM Fallback] Model not available. Prompt was:\nSummarize career of Rohan Mehta:\n{\n  \"name\": \"Rohan Mehta\",\n  \"target_role\": \"Backend Engineer\",\n  \"summary\": \"Backend services in Python/Django with Docker.\",\n  \"skills\": [\n    \"Python\",\n    \"Django\"..."
+}

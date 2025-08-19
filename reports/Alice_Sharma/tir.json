@@ -1,0 +1,18 @@
+{
+  "name": "Alice Sharma",
+  "skills": {
+    "python": {
+      "confidence": 0.8,
+      "category": "programming"
+    },
+    "nlp": {
+      "confidence": 0.8,
+      "category": "ml"
+    },
+    "docker": {
+      "confidence": 0.8,
+      "category": "infra"
+    }
+  },
+  "career_summary": "[LLM Fallback] Model not available. Prompt was:\nSummarize career of Alice Sharma:\n{\n  \"name\": \"Alice Sharma\",\n  \"target_role\": \"Machine Learning Engineer\",\n  \"summary\": \"Worked with Python, NLP and FastAPI deployments.\",\n  \"skills\": [\n    \"Python\",..."
+}

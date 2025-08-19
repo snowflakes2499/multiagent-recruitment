@@ -1,0 +1,12 @@
+{
+  "sentiment": {
+    "neg": 0.0,
+    "neu": 0.722,
+    "pos": 0.278,
+    "compound": 0.4019
+  },
+  "observed_traits": {
+    "teamwork": true,
+    "communication": true
+  }
+}

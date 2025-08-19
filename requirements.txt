@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+spacy
+sentence-transformers
+vaderSentiment
+pydantic
+streamlit
+fastapi
+uvicorn
+requests
+pyyaml
+tqdm
+matplotlib
+faker

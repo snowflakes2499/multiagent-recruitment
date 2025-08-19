@@ -1,0 +1,23 @@
+programming:
+  - python
+  - java
+  - c++
+  - javascript
+  - sql
+ml:
+  - machine learning
+  - deep learning
+  - nlp
+  - computer vision
+infra:
+  - docker
+  - kubernetes
+  - aws
+  - gcp
+  - azure
+soft:
+  - communication
+  - teamwork
+  - leadership
+  - problem solving
+  - adaptability

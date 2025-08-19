@@ -1,0 +1,18 @@
+{
+  "role": "Backend Engineer",
+  "tasks": {
+    "tasks": [
+      "[LLM Fallback] Model not available. Prompt was:\nCreate coding tasks for Rohan Mehta for role Backend Engineer. Candidate skills: ['Python', 'Django', 'Docker', 'SQL']..."
+    ]
+  },
+  "rubric": {
+    "Problem solving": 0.4,
+    "Code quality": 0.3,
+    "Communication": 0.3
+  },
+  "bias_protocol": [
+    "Ignore name, gender, college, or location.",
+    "Evaluate only technical and communication aspects.",
+    "Use the rubric weights strictly."
+  ]
+}

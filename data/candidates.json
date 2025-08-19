@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Alice Sharma",
+    "target_role": "Machine Learning Engineer",
+    "summary": "Worked with Python, NLP and FastAPI deployments.",
+    "skills": ["Python", "NLP", "FastAPI", "Docker"]
+  },
+  {
+    "name": "Rohan Mehta",
+    "target_role": "Backend Engineer",
+    "summary": "Backend services in Python/Django with Docker.",
+    "skills": ["Python", "Django", "Docker", "SQL"]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "Role": "Machine Learning Engineer",
+    "AvgSalaryLPA": 16,
+    "HotSkills": "Python, NLP, Docker",
+    "BestChannels": "LinkedIn, GitHub"
+  },
+  {
+    "Role": "Backend Engineer",
+    "AvgSalaryLPA": 12,
+    "HotSkills": "Python, SQL, Django",
+    "BestChannels": "GitHub, Reddit"
+  }
+]
